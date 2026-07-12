@@ -10,7 +10,7 @@ Unless noted in the recipe page all of these are orginal recipes.
 The goal of this cookbook is to document recipes that have
 actually been cooked, adjusted, and refined in a real home kitchen.
 
-# [📖 **Table_of_Contents**](Table-ofContents.md)
+# [📖 **Table of Contents**](Table-of-Contents.md)
 
 ## Categories
 
