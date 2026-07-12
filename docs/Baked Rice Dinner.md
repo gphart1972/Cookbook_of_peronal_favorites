@@ -2,6 +2,8 @@
 
 > **Takeaway:** Creamy baked rice, savory soups, and your choice of meat come together in a simple one-pan meal that's hearty, comforting, and easy to customize.
 
+!(/images/rice_dinner.png)
+
 ## Overview
 
 This is one of those classic dump-and-bake dinners where everything cooks together in a single baking dish.
