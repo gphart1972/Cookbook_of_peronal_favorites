@@ -8,13 +8,14 @@ A collection of home-tested recipes, cooking experiments, family favorites, and 
 
 ## Main Dishes
 
-- docs/Baked%20Rice%20Dinner.md
-- docs/Homemade%20Burgers.md
-- [Pork & Vegetable Ramen Stir-Fry](docs/Pork%20%26%20Vegetableto%20salad.md
-- [Rosemary-Brined ned%20Fried%20Chicken.md
-- docs/Spaghetti%20%26%20Meatballs.md
-- docs/Steakhouse-Style%20Baked%20Fish.md
-- docs/Texas-Asian%20Fusion%20Fried%20Rice.md
+- [Baked Rice Dinner](docs/baked-rice-dinner.md)
+- [Homemade Burgers](docs/homemade-burgers.md)
+- [Pork and Vegetable Ramen Stir-Fry](docs/pork-vegetable-ramen-stir-fry.md)
+- [Homestyle Potato Salad](docs/potato-salad.md)
+- [Rosemary Brined Fried Chicken](docs/rosemary-brined-fried-chicken.md)
+- [Classic Spaghetti and Meatballs](docs/spaghetti-and-meatballs.md)
+- [Steakhouse style Baked Fish](docs/steakhouse-style-baked-fish.md)
+- [Texas Asian Fusion Fried Rice](docs/texas-asian-fusion-fried-rice.md)
 
 ---
 
