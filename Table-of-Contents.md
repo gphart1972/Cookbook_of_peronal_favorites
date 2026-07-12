@@ -11,9 +11,6 @@
 - [Hamburger Soup](docs/hamburger-soup.md)
 - [Vegetable Soup with Sausage](docs/vegetable-soup-with-sausage.md)
 
-### Side Dishes
-- [Homestyle Potato Salad](docs/potato-salad.md)
-
 ### Fried Foods
 - [Rosemary Brined Fried Chicken](docs/rosemary-brined-fried-chicken.md)
 
@@ -21,3 +18,9 @@
 - [Texas–Asian Fusion Fried Rice](docs/texas-asian-fusion-fried-rice.md)
 - [Baked Rice Dinner](docs/baked-rice-dinner.md)
 - [Rice and Greens](docs/rice-n-greens.md)
+
+### Side Dishes
+- [Homestyle Potato Salad](docs/potato-salad.md)
+
+### Desserts
+- [Harvey Wallbanger Cake](docs/harvey-wallbanger-cake.md)
